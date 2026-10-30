@@ -1,0 +1,11 @@
+data/*
+!data/README.md
+*.xlsx
+*.parquet
+outputs/
+tests/_synthetic_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
